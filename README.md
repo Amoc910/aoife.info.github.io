@@ -1,2 +1,1 @@
-# aoife.info.github.io
-Aoife O'Connor's Professional Website
+I code therefore I am
