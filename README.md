@@ -6,6 +6,6 @@
   <img src="https://tse2.mm.bing.net/th/id/OIP.1BcqwfVNQJed8o0Y3EDq3AHaE8?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" width="100%">
 </div>
 <div>
-  <input type="text" placeholder="Enter Username">
+  <input type="file"
   <button>Sign Up!</button>
 </div>
